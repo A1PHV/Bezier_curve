@@ -1,0 +1,16 @@
+C:\Users\pra3t\source\repos\Bezie\Bezie\bin\Debug\netcoreapp3.1\Bezie.exe
+C:\Users\pra3t\source\repos\Bezie\Bezie\bin\Debug\netcoreapp3.1\Bezie.deps.json
+C:\Users\pra3t\source\repos\Bezie\Bezie\bin\Debug\netcoreapp3.1\Bezie.runtimeconfig.json
+C:\Users\pra3t\source\repos\Bezie\Bezie\bin\Debug\netcoreapp3.1\Bezie.runtimeconfig.dev.json
+C:\Users\pra3t\source\repos\Bezie\Bezie\bin\Debug\netcoreapp3.1\Bezie.dll
+C:\Users\pra3t\source\repos\Bezie\Bezie\bin\Debug\netcoreapp3.1\Bezie.pdb
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.csproj.AssemblyReference.cache
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.Form1.resources
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.csproj.GenerateResource.cache
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.AssemblyInfoInputs.cache
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.AssemblyInfo.cs
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.csproj.CoreCompileInputs.cache
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.dll
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.pdb
+C:\Users\pra3t\source\repos\Bezie\Bezie\obj\Debug\netcoreapp3.1\Bezie.genruntimeconfig.cache
